@@ -1224,7 +1224,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1270,7 +1270,7 @@ section {
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgb(67, 65, 226);
   font-size: 26px;
 }
 
